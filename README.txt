@@ -1,9 +1,3 @@
-/*******************************************************************************
-*                           Balancebot Template Code
-*                           pgaskell@umich.edu
-*       
-*******************************************************************************/
-
 bin/			             : Binaries folder
 balanceebot/balanceebot.c/.h : Main setup and threads
 test_motors/test_motors.c/.h : Program to test motor implementation
